@@ -1,6 +1,6 @@
 # Crime_Data_Analysis
 ## Project Description
-The aim of this project is to analyze crime data to get insights, identify patterns, understand the characteristics of victims, and examine the relationship between crime with other features. This dataset reflects incidents of crime in the Baltimore City of Maryland of USA and the year of 2023.
+The aim of this project is to analyze crime data from the year 2023 in Baltimore City, Maryland, USA, in order to gain insights, identify patterns, understand the characteristics of victims, and examine the relationship between crime and other features.
 
 ## Objectives:
 
@@ -11,9 +11,9 @@ The aim of this project is to analyze crime data to get insights, identify patte
 ).
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes).
 
-1. The most occurring crime is Common assault then Auto theft.
-2. Most of the victim range in between 30-40.
-3. Most of the victim race is Black and African American.
+1. The most occurring crime is Common assault and the second most is Auto theft.
+2. Most of the victim age range in between 30-40.
+3. Most of the victim race are Black and African American.
 
 ## Build from Sources
 1.Clone the repository.
