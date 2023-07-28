@@ -9,6 +9,11 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 
 3. Visualization: Utilize Tableau to create interactive visualizations. Generate pie charts, bar charts, maps and many more to highlight crime patterns, trends, and correlations within the dataset. Here is my [dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes
 ).
+
+<img src="Screenshot_80.png" width="100" height="100" />
+![Screenshot_80](https://github.com/riad5089/Crime-data-analysis/assets/93583569/a907f338-fcbd-4bcc-b66a-c61357b56a28) ![Screenshot_79](https://github.com/riad5089/Crime-data-analysis/assets/93583569/5e864ed8-e1d4-4e90-835d-8ac06b7b383b)![Screenshot_78](https://github.com/riad5089/Crime-data-analysis/assets/93583569/f13ec011-2893-4089-9330-34a18c3ab0b9)
+
+
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes).
 
 1. The most occurring crime is Common assault and the second most is Auto theft.
