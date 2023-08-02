@@ -1,4 +1,4 @@
-# Crime_Data_Analysis
+# Crime-Data-Analysis-Of-Baltimore-City-USA
 ## Project Description
 The aim of this project is to analyze crime data from the year 2023 in Baltimore City, Maryland, USA, in order to gain insights, identify patterns, understand the characteristics of victims, and examine the relationship between crime and other features.
 
