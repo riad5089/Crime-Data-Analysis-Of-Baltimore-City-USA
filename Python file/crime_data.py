@@ -11,15 +11,7 @@ from selenium.webdriver.common.by import By
 from time import sleep
 import numpy as np
 
-
-# In[2]:
-
-
 path=r'C:\Users\Abdur rahim nishad\Mastercourse\chromedriver.exe'
-
-
-# In[3]:
-
 
 browser=webdriver.Chrome(path)
 browser.get("https://data.baltimorecity.gov/datasets/baltimore::part-1-crime-data/explore")
@@ -43,50 +35,16 @@ for i in range(1,3001):
     Age.append(browser.find_element(By.XPATH,"//*[@id='main-region']/div/div[2]/div/table/tbody/tr[" + str(i) + "]/td[10]").text)
     Race.append(browser.find_element(By.XPATH,"//*[@id='main-region']/div/div[2]/div/table/tbody/tr[" + str(i) + "]/td[11]").text)
     District.append(browser.find_element(By.XPATH,"//*[@id='main-region']/div/div[2]/div/table/tbody/tr[" + str(i) + "]/td[13]").text)
-#     try:
-#         date = browser.find_element(By.XPATH, "//*[@id='main-region']/div/div[2]/div/table/tbody/tr[" + str(i) + "]/td[2]").text
-#         CrimeDateTime.append(date)
-#     except:
-#         CrimeDateTime.append(np.nan)
-
-
-# In[4]:
-
 
 len(Weapon)
 
-
-# In[5]:
-
-
 data={'CrimeDateTime':CrimeDateTime,"CrimeCode":CrimeCode,"Location":Location,"Description":Description,"Weapon":Weapon,"Victim_Gender":Gender,"Victim_Age":Age,"Victim_Race":Race,'District':District}
 
-
-# In[6]:
-
-
 df=pd.DataFrame(data)
-
-
-# In[7]:
-
-
 df
-
-
-# In[8]:
-
-
 df.to_csv("Crime_data.csv",index=False)
-
-
-# In[9]:
-
-
 df.head()
 
-
-# In[ ]:
 
 
 
