@@ -9,6 +9,8 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 
 3. Visualization: Utilize Tableau to create interactive visualizations. Generate pie charts, bar charts, maps and many more to highlight crime patterns, trends, and correlations within the dataset. Here is my [dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes
 ).
+
+## Tableau Dashboard
 1.`Total Counts` shows total number of crime and district wise count.Here The Total Number of Crime analysis provides an overview of the overall crime incidents recorded and District wise Count analysis represents crime incidents based geographical districts.
 <img src="Images/Screenshot_76.png" width=900 height=450>
 
