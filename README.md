@@ -33,20 +33,20 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 3. Most of the victim races are Black and African American.
 
 ## Build from Sources
-1.Clone the repository.
+1. Clone the repository.
 ```beshv
 git clone https://github.com/riad5089/Crime-data-analysis.git
 ```
-2.Install dependencies
+2. Install dependencies
 ```bash
 pip freeze > requirements.txt
 ```
-3.Download chrome webdriver from https://chromedriver.chromium.org/downloads
+3. Download chrome webdriver from https://chromedriver.chromium.org/downloads
 
-4.Run the scraper
+4. Run the scraper
 ```bash
 Python files/crime_data.py --chromedriver_path <path_to_chromedriver>
 ```
-5.You will get a file named Crime_data.csv containing all the required fields. Alternatively, check my scraped data here: https://github.com/riad5089/Crime-Data-Analysis-Of-Baltimore-City-USA/blob/main/Dataset/Scraped_data(Crime_analysis).csv.
+5. You will get a file named Crime_data.csv containing all the required fields. Alternatively, check my scraped data here: https://github.com/riad5089/Crime-Data-Analysis-Of-Baltimore-City-USA/blob/main/Dataset/Scraped_data(Crime_analysis).csv.
 
 
