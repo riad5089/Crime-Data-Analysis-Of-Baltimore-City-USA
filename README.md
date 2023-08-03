@@ -31,8 +31,8 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes).
 
-1. The most occurring crime is Common assault and the second most is Auto theft.
-2. Most of the victim age range in between 30-40.
+1. The most occurring crime is Auto theft and the second most is Common assault.
+2. Most of the victim age range in between 25-50.
 3. Most of the victim races are Black and African American.
 
 ## Build from Sources
