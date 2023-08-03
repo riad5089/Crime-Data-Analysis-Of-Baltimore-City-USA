@@ -23,6 +23,8 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 4.`Weapon and Time Wise Analysis` shows Used Weapon For Crime and Time Wise Crime. The Used Weapon for Crime analysis investigates the types of weapons involved in criminal activities. The Time-Wise Crime analysis represents  crime patterns over different time periods.
 <img src="Images/Screenshot_79.png" width=900 height=400>
 
+5.`Day and Map Wise Crime` 
+
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes).
 
 1. The most occurring crime is Common assault and the second most is Auto theft.
