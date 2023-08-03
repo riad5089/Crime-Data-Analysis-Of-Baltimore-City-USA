@@ -4,7 +4,7 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 
 ## Objectives:
 
-1. Web Scraping and Data Collection: I have taken data from [this website](https://data.baltimorecity.gov/datasets/baltimore::part-1-crime-data/about) and scraped 1000 data.
+1. Web Scraping and Data Collection: I have taken data from [this website](https://data.baltimorecity.gov/datasets/baltimore::part-1-crime-data/about) and scraped 3000 data.
 2. Data Preprocessing: Clean and preprocess the scraped data to handle missing values and other preprocessing step.
 
 3. Visualization: Utilize Tableau to create interactive visualizations. Generate pie charts, bar charts, maps and many more to highlight crime patterns, trends, and correlations within the dataset. Here is my [dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes
