@@ -26,7 +26,7 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 5.`Day and Map Wise Crime` shows Day Wise analysis and Map Of Various Districts. The Day Wise Analysis explores crime incidents based on specific days of the month and the gender of the victims. And the Map Of Various Districts analysis represents crime data across districts, focusing on gender-related information to identify patterns.
 <img src="Images/Screenshot_80.png" width=900 height=400>
 
-6. `Age Wise Analysis` shows Victims With their Age, Age Of Most Victims, and Time And Age Wise Analysis. The Victims With Their Age analysis shows how many victims aged in between 20-40 and what is the race of those victims. The Age Of Most Victims analysis presents the top 10 age people who are most frequently victimized in reported crimes. And Time And Age Wise Analysis represents the relationship between the time of reported crimes and the age groups of the victims involved.
+6.`Age Wise Analysis` shows Victims With their Age, Age Of Most Victims, and Time And Age Wise Analysis. The Victims With Their Age analysis shows how many victims aged in between 20-40 and what is the race of those victims. The Age Of Most Victims analysis presents the top 10 age people who are most frequently victimized in reported crimes. And Time And Age Wise Analysis represents the relationship between the time of reported crimes and the age groups of the victims involved.
 <img src="Images/Screenshot_81.png" width=900 height=400>
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes).
