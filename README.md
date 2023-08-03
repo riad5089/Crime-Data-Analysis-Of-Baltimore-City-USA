@@ -12,13 +12,13 @@ The aim of this project is to analyze crime data from the year 2023 in Baltimore
 
 ## Tableau Dashboard
 1.`Total Counts` shows total number of crime and district-wise counts. Here The Total Number of Crime analysis provides an overview of the overall crime incidents recorded and District wise Count analysis represents crime incidents based on geographical districts.
-<img src="Images/Screenshot_76.png" width=900 height=450>
+<img src="Images/Screenshot_76.png" width=900 height=400>
 
 2.`Crime Insights` shows Location and Month-Wise Crime, Gender-wise count and Month and District-wise analysis. Location and Month-Wise Crime Analysis" simplifies crime patterns by examining where and when crimes occur and this analysis reveals trends over different months in various locations. The Gender-Wise Analysis presents the distribution of crime victims based on gender, highlighting the number of incidents involving males and females. The Month and District-wise Analysis represent crime incidents in different districts and months.
-<img src="Images/Screenshot_77.png" width=900 height=450>
+<img src="Images/Screenshot_77.png" width=900 height=400>
 
 3.`Race wise analysis` Victim_Race Of Various District and Victim With Their Race(according to description). The Victim Race of Various Districts analysis shows the racial composition of crime victims across different geographical districts. The Victim with Their Race analysis delves into the relationship between crime incidents and the racial identity of the victims. 
-<img src="Images/Screenshot_78.png" width=900 height=450>
+<img src="Images/Screenshot_78.png" width=900 height=400>
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.abdur.sobhan.riad/viz/Crime_analysis_16873409234090/Dashboard1?publish=yes).
 
